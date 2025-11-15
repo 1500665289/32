@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Esotericas>
+  <List>
+    <Esoterica Name="11c72a10-700f-4c60-b15e-9171029a9ce5">
+      <DisplayName>黯然销魂掌</DisplayName>
+      <EffectDesc>黯然销魂掌，是杨过创始掌法，总共一十七招，其名由来于"黯然销魂者，唯别而已矣"必须要有黯然的心境才能发挥威力。提升大量术法威力</EffectDesc>
+      <Difficulty>0</Difficulty>
+      <StarLevel>0</StarLevel>
+      <OtherWorld>1</OtherWorld>
+      <DownMod>1</DownMod>
+      <GLevel>Qi</GLevel>
+      <Element>Shui</Element>
+      <Type>Skill</Type>
+      <Modifier>b7690950-0918-4f51-a520-08d04c5d75c1</Modifier>
+      <ProduceMode>
+        <WorldDrop>1</WorldDrop>
+        <DropRate>0.5</DropRate>
+      </ProduceMode>
+    </Esoterica>
+  </List>
+</Esotericas>

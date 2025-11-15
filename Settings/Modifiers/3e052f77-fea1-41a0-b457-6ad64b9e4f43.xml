@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModifierDefs>
+  <List>
+    <Modifier Name="3e052f77-fea1-41a0-b457-6ad64b9e4f43">
+      <DisplayName>静</DisplayName>
+      <Desc>心如止水。此人心境以达到巅峰无波无涟</Desc>
+      <MaxStack>1</MaxStack>
+      <Duration>-1</Duration>
+      <BaseFive>0,0,0,0,0</BaseFive>
+      <OtherWorld>1</OtherWorld>
+      <Sync>1</Sync>
+      <Display>1</Display>
+      <Skills />
+      <Properties>
+        <li Name="BaseEmotionAddV" AddP="0" AddV="5555" BAddP="0" BAddV="0" Type="1" />
+        <li Name="MindStateBaseValue" AddP="0" AddV="5555" BAddP="0" BAddV="0" Type="1" />
+        <li Name="SpeedOfMindStateCoefficient" AddP="0" AddV="555555" BAddP="0" BAddV="0" Type="1" />
+      </Properties>
+      <CustItemType>Dan</CustItemType>
+    </Modifier>
+  </List>
+</ModifierDefs>

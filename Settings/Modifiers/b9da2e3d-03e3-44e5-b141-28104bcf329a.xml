@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModifierDefs>
+  <List>
+    <Modifier Name="b9da2e3d-03e3-44e5-b141-28104bcf329a">
+      <DisplayName>快</DisplayName>
+      <Desc>此人脚力已达登峰造极。可日行千里</Desc>
+      <MaxStack>1</MaxStack>
+      <Duration>-1</Duration>
+      <BaseFive>0,0,0,0,0</BaseFive>
+      <OtherWorld>1</OtherWorld>
+      <Sync>1</Sync>
+      <Display>1</Display>
+      <Skills />
+      <Properties>
+        <li Name="MoveSpeed" AddP="0" AddV="55" BAddP="0" BAddV="0" Type="1" />
+        <li Name="WorldMapFlySpeedAddP" AddP="0" AddV="9999999" BAddP="0" BAddV="0" Type="1" />
+        <li Name="ExperienceFindSpeedAddV" AddP="0" AddV="5555555" BAddP="0" BAddV="0" Type="1" />
+      </Properties>
+      <CustItemType>Dan</CustItemType>
+    </Modifier>
+  </List>
+</ModifierDefs>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModifierDefs>
+  <List>
+    <Modifier Name="b7690950-0918-4f51-a520-08d04c5d75c1">
+      <DisplayName>术法威力</DisplayName>
+      <MaxStack>0</MaxStack>
+      <Duration>-1</Duration>
+      <BaseFive>10,10,10,10,10</BaseFive>
+      <OtherWorld>1</OtherWorld>
+      <Skills>
+        <li Name="FightSkill" Level="0" LevelOver="9999" Type="2" />
+      </Skills>
+      <Properties>
+        <li Name="NpcFight_SpellPowerAddP" AddP="0" AddV="9999999" BAddP="0" BAddV="0" Type="1" />
+        <li Name="NpcFight_FightSkillSoul" AddP="0" AddV="8" BAddP="0" BAddV="0" Type="1" />
+      </Properties>
+      <CustItemType>Esoterica</CustItemType>
+    </Modifier>
+  </List>
+</ModifierDefs>

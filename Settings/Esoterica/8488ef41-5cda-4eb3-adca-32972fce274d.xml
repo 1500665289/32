@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Esotericas>
+  <List>
+    <Esoterica Name="8488ef41-5cda-4eb3-adca-32972fce274d">
+      <DisplayName>九阳真经</DisplayName>
+      <EffectDesc>至高无上的高深武学宝典
+要用意不用劲。随人而动，随屈就伸，挨何处，心要用在何处
+提升大量基础</EffectDesc>
+      <Difficulty>0</Difficulty>
+      <StarLevel>0</StarLevel>
+      <OtherWorld>1</OtherWorld>
+      <DownMod>1</DownMod>
+      <GLevel>Qi</GLevel>
+      <Element>Huo</Element>
+      <Type>Gong</Type>
+      <Modifier>98dd1834-2fe8-4773-b7f7-face79ba781b</Modifier>
+      <ProduceMode>
+        <WorldDrop>1</WorldDrop>
+        <DropRate>0.5</DropRate>
+      </ProduceMode>
+    </Esoterica>
+  </List>
+</Esotericas>

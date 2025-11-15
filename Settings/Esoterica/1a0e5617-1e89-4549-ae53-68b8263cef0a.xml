@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Esotericas>
+  <List>
+    <Esoterica Name="1a0e5617-1e89-4549-ae53-68b8263cef0a">
+      <DisplayName>降龙十八掌</DisplayName>
+      <EffectDesc>降龙十八掌修练门槛不高.但后面几招须内力深厚至一定程度方可习成，故百年来习齐十八掌者寥寥无几。
+习会后提升大量术法威力</EffectDesc>
+      <Difficulty>0</Difficulty>
+      <StarLevel>0</StarLevel>
+      <OtherWorld>1</OtherWorld>
+      <DownMod>1</DownMod>
+      <GLevel>Qi</GLevel>
+      <Element>Jin</Element>
+      <Type>Skill</Type>
+      <Modifier>b7690950-0918-4f51-a520-08d04c5d75c1</Modifier>
+      <ProduceMode>
+        <WorldDrop>1</WorldDrop>
+        <DropRate>0.5</DropRate>
+      </ProduceMode>
+    </Esoterica>
+  </List>
+</Esotericas>

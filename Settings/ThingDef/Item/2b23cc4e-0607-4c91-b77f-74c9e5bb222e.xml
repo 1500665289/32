@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ThingDefs>
+  <List>
+    <ThingDef Type="Item" Name="2b23cc4e-0607-4c91-b77f-74c9e5bb222e" Parent="WanJie_DanBase">
+      <ThingName>潜力爆发</ThingName>
+      <Rate>5</Rate>
+      <Desc>法修吃后可爆发潜力，对付灭门之祸，副作用很强</Desc>
+      <TexPath>res/Sprs/object/object_XIAOdanyao02</TexPath>
+      <Color>FFFFFFFF</Color>
+      <OtherWorld>1</OtherWorld>
+      <DownMod>1</DownMod>
+      <Item Lable="Dan" Kind="Consumable">
+        <BeMade>
+          <CostStuffCount>1</CostStuffCount>
+          <CostItems>
+            <Item name="Item_Healroot" count="1" />
+          </CostItems>
+        </BeMade>
+        <Prices>
+          <TalkType>6</TalkType>
+          <BaseCount>5</BaseCount>
+          <Fixed>1</Fixed>
+          <li PriceTag="School">
+            <BuyPrice Value="0" />
+            <SalePrice Value="0" />
+          </li>
+          <li PriceTag="Trade">
+            <BuyPrice Value="111" />
+            <SalePrice Value="0" />
+          </li>
+          <li PriceTag="Auction">
+            <BuyPrice Value="0" />
+            <SalePrice Value="0" />
+          </li>
+        </Prices>
+        <Food>
+          <Nutrition>0</Nutrition>
+          <Water>0</Water>
+          <PracticeNutrition>0</PracticeNutrition>
+        </Food>
+        <Elixir>
+          <ZhuJi>0</ZhuJi>
+          <Ling>0</Ling>
+          <Modifier>24ce942f-a209-416f-b715-f15a0bea0093</Modifier>
+          <DiscipleOnly>1</DiscipleOnly>
+        </Elixir>
+      </Item>
+      <Light>
+        <Color>62F8FFFF</Color>
+      </Light>
+      <ProduceMode>
+        <InitialUnlock>1</InitialUnlock>
+        <WorldDrop>1</WorldDrop>
+        <Businessman>1</Businessman>
+        <DropRate>0.05</DropRate>
+        <DanFormula>FORMUL_2b23cc4e-0607-4c91-b77f-74c9e5bb222e</DanFormula>
+      </ProduceMode>
+    </ThingDef>
+  </List>
+</ThingDefs>

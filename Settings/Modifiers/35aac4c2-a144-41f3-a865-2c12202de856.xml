@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModifierDefs>
+  <List>
+    <Modifier Name="35aac4c2-a144-41f3-a865-2c12202de856">
+      <DisplayName>法宝数量</DisplayName>
+      <Desc>增加</Desc>
+      <MaxStack>1</MaxStack>
+      <Duration>-1</Duration>
+      <BaseFive>0,0,0,0,0</BaseFive>
+      <OtherWorld>1</OtherWorld>
+      <Sync>1</Sync>
+      <Display>1</Display>
+      <Skills />
+      <Properties>
+        <li Name="NpcFight_FabaoNum" AddP="0" AddV="5" BAddP="0" BAddV="0" Type="1" />
+      </Properties>
+      <CustItemType>Dan</CustItemType>
+    </Modifier>
+  </List>
+</ModifierDefs>

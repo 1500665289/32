@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Esotericas>
+  <List>
+    <Esoterica Name="92954dc5-f0ff-4984-b50e-e8ccefff898b">
+      <DisplayName>易筋经</DisplayName>
+      <EffectDesc>少林寺不传之秘籍，不知为何流落在异界.
+学习之后可提升大量基础</EffectDesc>
+      <Difficulty>0</Difficulty>
+      <StarLevel>0</StarLevel>
+      <OtherWorld>1</OtherWorld>
+      <DownMod>1</DownMod>
+      <GLevel>Qi</GLevel>
+      <Element>None</Element>
+      <Type>Gong</Type>
+      <Modifier>98dd1834-2fe8-4773-b7f7-face79ba781b</Modifier>
+      <ProduceMode>
+        <WorldDrop>1</WorldDrop>
+        <DropRate>0.5</DropRate>
+      </ProduceMode>
+    </Esoterica>
+  </List>
+</Esotericas>

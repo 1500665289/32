@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ThingDefs>
+  <List>
+    <ThingDef Type="Item" Name="a5f3d003-e22f-4d85-9a7b-b54e9aaabffd" Parent="WanJie_DanBase">
+      <ThingName>斗战神丹</ThingName>
+      <Rate>12</Rate>
+      <Desc>立地成仙丹</Desc>
+      <TexPath>res/Sprs/object/object_PINGdanyao03</TexPath>
+      <Color>FFFFFFFF</Color>
+      <OtherWorld>1</OtherWorld>
+      <DownMod>1</DownMod>
+      <Item Lable="Dan" Kind="Consumable">
+        <BeMade>
+          <CostStuffCount>1</CostStuffCount>
+          <CostItems>
+            <Item name="Item_Healroot" count="1" />
+          </CostItems>
+        </BeMade>
+        <Prices>
+          <TalkType>6</TalkType>
+          <BaseCount>5</BaseCount>
+          <Fixed>1</Fixed>
+          <li PriceTag="School">
+            <BuyPrice Value="0" />
+            <SalePrice Value="0" />
+          </li>
+          <li PriceTag="Trade">
+            <BuyPrice Value="111" />
+            <SalePrice Value="0" />
+          </li>
+          <li PriceTag="Auction">
+            <BuyPrice Value="0" />
+            <SalePrice Value="0" />
+          </li>
+        </Prices>
+        <Food>
+          <Nutrition>0</Nutrition>
+          <Water>0</Water>
+          <PracticeNutrition>0</PracticeNutrition>
+        </Food>
+        <Elixir>
+          <ZhuJi>0</ZhuJi>
+          <Ling>0</Ling>
+          <Modifier>a87e5938-1649-4e5b-ac34-aa89b185d070</Modifier>
+          <DiscipleOnly>1</DiscipleOnly>
+        </Elixir>
+      </Item>
+      <Light>
+        <Color>62F8FFFF</Color>
+      </Light>
+      <ProduceMode>
+        <WorldDrop>1</WorldDrop>
+        <Businessman>1</Businessman>
+        <DropRate>0.05</DropRate>
+      </ProduceMode>
+    </ThingDef>
+  </List>
+</ThingDefs>

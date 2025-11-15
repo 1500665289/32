@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModifierDefs>
+  <List>
+    <Modifier Name="4f80ec69-48ad-4253-9e22-05725f788c83">
+      <DisplayName>武器</DisplayName>
+      <Desc>
+心静完美
+法宝炼制成功率
+法宝炼制速度
+法宝炼制品质加成
+丹药同上
+极限温度
+</Desc>
+      <MaxStack>1</MaxStack>
+      <Duration>-1</Duration>
+      <BaseFive>10,10,10,10,10</BaseFive>
+      <OtherWorld>1</OtherWorld>
+      <Sync>1</Sync>
+      <FromModifier>8a83a99a-bfb9-4a79-9f82-c8a95c205e65</FromModifier>
+      <Skills />
+      <Properties>
+        <li Name="FabaoMake_SuccessRateAddV" AddP="1000" AddV="0" BAddP="0" BAddV="0" Type="2" />
+        <li Name="FabaoMake_SpeedAddV" AddP="0" AddV="1000" BAddP="0" BAddV="0" Type="1" />
+        <li Name="FabaoMake_LingInheritRateAddV" AddP="0" AddV="15" BAddP="0" BAddV="0" Type="1" />
+        <li Name="NutritionToJingYuanK" AddP="0" AddV="9999" BAddP="0" BAddV="0" Type="1" />
+        <li Name="FabaoMake_TwelveRateChance" AddP="1000" AddV="0" BAddP="0" BAddV="0" Type="2" />
+        <li Name="DanMake_SuccessRateAddV" AddP="1000" AddV="0" BAddP="0" BAddV="0" Type="2" />
+        <li Name="DanMake_YieldAddP" AddP="1000" AddV="0" BAddP="0" BAddV="0" Type="2" />
+      </Properties>
+      <CustItemType>OtherEquip</CustItemType>
+    </Modifier>
+  </List>
+</ModifierDefs>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ThingDefs>
+  <List>
+    <ThingDef Type="Item" Name="5b547596-ed12-4734-9b76-19343870f470" Parent="WanJie_OtherEquipBase">
+      <ThingName>避劫符</ThingName>
+      <Rate>1</Rate>
+      <Desc>有规避雷劫之效果</Desc>
+      <TexPath>res/Sprs/object/object_fuzhou01b</TexPath>
+      <Color>FFFFFFFF</Color>
+      <OtherWorld>1</OtherWorld>
+      <DownMod>1</DownMod>
+      <Item Lable="Tool" Kind="Equipment">
+        <BeMade>
+          <CostStuffCount>1</CostStuffCount>
+          <StuffCategories>
+            <Stuff name="RockBlock" />
+          </StuffCategories>
+        </BeMade>
+        <Equip>
+          <Modifier>ad83a134-480d-4763-8402-17736c010332</Modifier>
+        </Equip>
+      </Item>
+      <CostStuffCount>1</CostStuffCount>
+      <ProduceMode>
+        <ProduceBuildings>
+          <li>
+            <Building>WeaponMaker</Building>
+            <Count>1</Count>
+          </li>
+        </ProduceBuildings>
+      </ProduceMode>
+    </ThingDef>
+  </List>
+</ThingDefs>

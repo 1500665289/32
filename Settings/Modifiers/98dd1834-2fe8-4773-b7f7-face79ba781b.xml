@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModifierDefs>
+  <List>
+    <Modifier Name="98dd1834-2fe8-4773-b7f7-face79ba781b">
+      <DisplayName>内功</DisplayName>
+      <MaxStack>0</MaxStack>
+      <Duration>-1</Duration>
+      <BaseFive>10,10,10,10,10</BaseFive>
+      <OtherWorld>1</OtherWorld>
+      <Skills>
+        <li Name="Qi" Level="0" LevelOver="9999999" Type="2" />
+        <li Name="Fight" Level="0" LevelOver="999999" Type="2" />
+        <li Name="DouFa" Level="0" LevelOver="9999999" Type="2" />
+        <li Name="DanQi" Level="0" LevelOver="9999999" Type="2" />
+        <li Name="Fabao" Level="0" LevelOver="9999999" Type="2" />
+        <li Name="Zhen" Level="0" LevelOver="9999999" Type="2" />
+      </Skills>
+      <Properties>
+        <li Name="BodyPratice_BodyStrong" AddP="0" AddV="50000" BAddP="0" BAddV="0" Type="1" />
+        <li Name="NpcFight_FabaoPowerAddP" AddP="5000" AddV="0" BAddP="0" BAddV="0" Type="2" />
+        <li Name="NpcFight_FabaoLingRecoverK" AddP="0" AddV="50" BAddP="0" BAddV="0" Type="1" />
+        <li Name="NpcFight_FightSkillSoul" AddP="0" AddV="8" BAddP="0" BAddV="0" Type="1" />
+        <li Name="DeepPracticeSpeedSpecialCoefficient" AddP="2000" AddV="0" BAddP="0" BAddV="0" Type="2" />
+        <li Name="MaxAge" AddP="0" AddV="2000" BAddP="0" BAddV="0" Type="1" />
+        <li Name="NpcLingMaxValue" AddP="0" AddV="500000" BAddP="0" BAddV="0" Type="1" />
+        <li Name="NpcFight_FabaoMaxLingAddP" AddP="0" AddV="800000" BAddP="0" BAddV="0" Type="1" />
+        <li Name="NpcFight_FabaoLingRecoverAddP" AddP="1000" AddV="0" BAddP="0" BAddV="0" Type="2" />
+      </Properties>
+      <CustItemType>Esoterica</CustItemType>
+    </Modifier>
+  </List>
+</ModifierDefs>

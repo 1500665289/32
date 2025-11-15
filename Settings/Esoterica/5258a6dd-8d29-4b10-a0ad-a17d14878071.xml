@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Esotericas>
+  <List>
+    <Esoterica Name="5258a6dd-8d29-4b10-a0ad-a17d14878071">
+      <DisplayName>金钟罩</DisplayName>
+      <EffectDesc>少林寺72绝学之一
+他强任他强，清风拂山岗;他横任他横，明月照大江
+</EffectDesc>
+      <Difficulty>0</Difficulty>
+      <StarLevel>0</StarLevel>
+      <OtherWorld>1</OtherWorld>
+      <DownMod>1</DownMod>
+      <GLevel>Qi</GLevel>
+      <Element>None</Element>
+      <Type>Barrier</Type>
+      <Modifier>1f4e758f-a6f5-4e0a-af58-1e60d8d6929c</Modifier>
+      <ProduceMode>
+        <WorldDrop>1</WorldDrop>
+        <DropRate>0.5</DropRate>
+      </ProduceMode>
+    </Esoterica>
+  </List>
+</Esotericas>

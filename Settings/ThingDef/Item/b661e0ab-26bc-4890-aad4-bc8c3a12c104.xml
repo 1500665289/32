@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ThingDefs>
+  <List>
+    <ThingDef Type="Item" Name="b661e0ab-26bc-4890-aad4-bc8c3a12c104" Parent="WanJie_KnifeBase">
+      <ThingName>绝世好剑</ThingName>
+      <Rate>1</Rate>
+      <Desc>天下第一绝世好剑，</Desc>
+      <TexPath>res/Sprs/object/object_weaponjian01</TexPath>
+      <Color>ffffff</Color>
+      <OtherWorld>1</OtherWorld>
+      <DownMod>1</DownMod>
+      <Item Lable="Weapon" Kind="Equipment">
+        <BeMade>
+          <CostStuffCount>1</CostStuffCount>
+          <CostItems>
+            <Item name="Item_RoughWoodBlock" count="1" />
+            <Item name="Item_Water" count="100" />
+          </CostItems>
+          <StuffCategories>
+            <Stuff name="RockBlock" />
+            <Stuff name="WoodBlock" />
+            <Stuff name="MetalBlock" />
+          </StuffCategories>
+        </BeMade>
+        <Equip>
+          <Damage>999</Damage>
+          <AttackSpeed>3</AttackSpeed>
+          <AttackRange>20</AttackRange>
+          <ModPath>Mod/Prop/Weapon/weapon_jian11</ModPath>
+          <WeaponKind>Sword</WeaponKind>
+          <Modifier>4f80ec69-48ad-4253-9e22-05725f788c83</Modifier>
+        </Equip>
+      </Item>
+      <CostStuffCount>1</CostStuffCount>
+      <Light>
+        <Color>ffffff</Color>
+      </Light>
+      <ProduceMode>
+        <ProduceBuildings>
+          <li>
+            <Building>WeaponMaker</Building>
+            <Count>1</Count>
+          </li>
+        </ProduceBuildings>
+      </ProduceMode>
+    </ThingDef>
+  </List>
+</ThingDefs>

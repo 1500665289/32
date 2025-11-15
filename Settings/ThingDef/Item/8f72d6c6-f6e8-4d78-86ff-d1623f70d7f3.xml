@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ThingDefs>
+  <List>
+    <ThingDef Type="Item" Name="8f72d6c6-f6e8-4d78-86ff-d1623f70d7f3" Parent="WanJie_KnifeBase">
+      <ThingName>体武</ThingName>
+      <Rate>1</Rate>
+      <Desc>一把刀，擅长劈砍。</Desc>
+      <TexPath>res/Sprs/object/object_weapondao01</TexPath>
+      <Color>FFFFFFFF</Color>
+      <OtherWorld>1</OtherWorld>
+      <DownMod>1</DownMod>
+      <Item Lable="Weapon" Kind="Equipment">
+        <BeMade>
+          <CostStuffCount>1</CostStuffCount>
+          <CostItems>
+            <Item name="Item_RoughWoodBlock" count="1" />
+            <Item name="Item_Water" count="100" />
+          </CostItems>
+          <StuffCategories>
+            <Stuff name="RockBlock" />
+          </StuffCategories>
+        </BeMade>
+        <Equip>
+          <Damage>1</Damage>
+          <AttackSpeed>0.3</AttackSpeed>
+          <AttackRange>1.5</AttackRange>
+          <ModPath>Mod/Prop/Weapon/weapon_jian10</ModPath>
+          <WeaponKind>Sword</WeaponKind>
+          <Modifier>bc74e0a7-ba87-4ba2-82b4-4fe6c869dae6</Modifier>
+        </Equip>
+      </Item>
+      <CostStuffCount>1</CostStuffCount>
+      <ProduceMode>
+        <ProduceBuildings>
+          <li>
+            <Building>WeaponMaker</Building>
+            <Count>1</Count>
+          </li>
+        </ProduceBuildings>
+      </ProduceMode>
+    </ThingDef>
+  </List>
+</ThingDefs>

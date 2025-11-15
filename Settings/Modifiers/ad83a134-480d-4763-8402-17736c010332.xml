@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModifierDefs>
+  <List>
+    <Modifier Name="ad83a134-480d-4763-8402-17736c010332">
+      <DisplayName>避劫</DisplayName>
+      <MaxStack>1</MaxStack>
+      <Duration>-1</Duration>
+      <BaseFive>0,0,0,0,0</BaseFive>
+      <OtherWorld>1</OtherWorld>
+      <Sync>1</Sync>
+      <FromModifier>2477fe53-d057-46e0-9997-c8012e935a89</FromModifier>
+      <Skills />
+      <Properties>
+        <li Name="NeckCountdownAddV" AddP="0" AddV="9999999" BAddP="0" BAddV="0" Type="1" />
+      </Properties>
+      <CustItemType>OtherEquip</CustItemType>
+    </Modifier>
+  </List>
+</ModifierDefs>

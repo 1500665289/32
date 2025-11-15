@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Esotericas>
+  <List>
+    <Esoterica Name="55f1348e-7e3b-4699-a930-b2ad011ee5bb">
+      <DisplayName>乾坤大挪移</DisplayName>
+      <EffectDesc>日月教至高心法，可转移一部分伤害</EffectDesc>
+      <Difficulty>0</Difficulty>
+      <StarLevel>0</StarLevel>
+      <OtherWorld>1</OtherWorld>
+      <DownMod>1</DownMod>
+      <GLevel>Qi</GLevel>
+      <Element>None</Element>
+      <Type>Barrier</Type>
+      <Modifier>1f4e758f-a6f5-4e0a-af58-1e60d8d6929c</Modifier>
+      <ProduceMode>
+        <WorldDrop>1</WorldDrop>
+        <DropRate>0.5</DropRate>
+      </ProduceMode>
+    </Esoterica>
+  </List>
+</Esotericas>

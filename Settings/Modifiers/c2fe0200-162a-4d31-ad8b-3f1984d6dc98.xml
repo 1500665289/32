@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModifierDefs>
+  <List>
+    <Modifier Name="c2fe0200-162a-4d31-ad8b-3f1984d6dc98">
+      <DisplayName>阵法大师</DisplayName>
+      <MaxStack>1</MaxStack>
+      <Duration>-1</Duration>
+      <BaseFive>0,0,0,0,0</BaseFive>
+      <OtherWorld>1</OtherWorld>
+      <Sync>1</Sync>
+      <Display>1</Display>
+      <Skills>
+        <li Name="Zhen" Level="0" LevelOver="9999" Type="2" />
+      </Skills>
+      <Properties>
+        <li Name="NpcFight_ZhenKeyPointNum" AddP="0" AddV="9999999" BAddP="0" BAddV="0" Type="1" />
+        <li Name="NpcFight_ZhenKeyPointNum" AddP="5999999" AddV="0" BAddP="0" BAddV="0" Type="2" />
+        <li Name="NpcFight_ZhenKeyPointNum" AddP="0" AddV="0" BAddP="599999" BAddV="0" Type="4" />
+        <li Name="NpcFight_ZhenKeyPointNum" AddP="0" AddV="0" BAddP="0" BAddV="9999999" Type="3" />
+        <li Name="NpcFight_ZhenEnginePower" AddP="0" AddV="9999999" BAddP="0" BAddV="0" Type="1" />
+        <li Name="NpcFight_ZhenEnginePower" AddP="9999999" AddV="0" BAddP="0" BAddV="0" Type="2" />
+        <li Name="NpcFight_ZhenEnginePower" AddP="0" AddV="0" BAddP="9999999" BAddV="0" Type="4" />
+        <li Name="NpcFight_ZhenEnginePower" AddP="0" AddV="0" BAddP="0" BAddV="9999999" Type="3" />
+      </Properties>
+      <CustItemType>Dan</CustItemType>
+    </Modifier>
+  </List>
+</ModifierDefs>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModifierDefs>
+  <List>
+    <Modifier Name="bc74e0a7-ba87-4ba2-82b4-4fe6c869dae6">
+      <DisplayName>体</DisplayName>
+      <MaxStack>1</MaxStack>
+      <Duration>-1</Duration>
+      <BaseFive>0,0,0,0,0</BaseFive>
+      <OtherWorld>1</OtherWorld>
+      <Sync>1</Sync>
+      <FromModifier>62f88409-3235-4ec2-8a68-84dec8b2af3b</FromModifier>
+      <Skills />
+      <Properties>
+        <li Name="BodyPractice_Other_TunaAddp" AddP="0" AddV="555555" BAddP="0" BAddV="0" Type="1" />
+        <li Name="BodyPractice_SuperPartAtk_EquptMaxCount" AddP="0" AddV="5" BAddP="0" BAddV="0" Type="1" />
+        <li Name="BodyPratice_QuenchingSpeed" AddP="0" AddV="5555555" BAddP="0" BAddV="0" Type="1" />
+        <li Name="BodyPractice_SuperPartDef_EquptMaxCount" AddP="0" AddV="5" BAddP="0" BAddV="0" Type="1" />
+        <li Name="BodyPractice_SuperPartBuff_EquptMaxCount" AddP="0" AddV="5" BAddP="0" BAddV="0" Type="1" />
+        <li Name="BodyPractice_EatItemProduceCountAddp" AddP="0" AddV="5555555" BAddP="0" BAddV="0" Type="1" />
+        <li Name="BodyPractice_EatItemMaxRate" AddP="0" AddV="55" BAddP="0" BAddV="0" Type="1" />
+        <li Name="BodyPractice_AngerFireDuration" AddP="0" AddV="5555555" BAddP="0" BAddV="0" Type="1" />
+        <li Name="BodyPractice_EatItemProduceRateAddp" AddP="0" AddV="9999" BAddP="0" BAddV="0" Type="1" />
+      </Properties>
+      <CustItemType>OtherEquip</CustItemType>
+    </Modifier>
+  </List>
+</ModifierDefs>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Esotericas>
+  <List>
+    <Esoterica Name="823a4d0e-17fa-4426-b43f-0d91afdf7862">
+      <DisplayName>先天功</DisplayName>
+      <EffectDesc>独门不传之秘先天功，功法里的奥秘能使人潜能意识被激发到极限，武学自会步入深不可测之化境。
+可提升大量基础</EffectDesc>
+      <Difficulty>0</Difficulty>
+      <StarLevel>0</StarLevel>
+      <OtherWorld>1</OtherWorld>
+      <DownMod>1</DownMod>
+      <GLevel>Qi</GLevel>
+      <Element>Mu</Element>
+      <Type>Gong</Type>
+      <Modifier>98dd1834-2fe8-4773-b7f7-face79ba781b</Modifier>
+      <ProduceMode>
+        <WorldDrop>1</WorldDrop>
+        <DropRate>0.5</DropRate>
+      </ProduceMode>
+    </Esoterica>
+  </List>
+</Esotericas>

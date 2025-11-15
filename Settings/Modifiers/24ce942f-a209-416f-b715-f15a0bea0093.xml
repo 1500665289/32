@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModifierDefs>
+  <List>
+    <Modifier Name="24ce942f-a209-416f-b715-f15a0bea0093">
+      <DisplayName>潜力爆发丹</DisplayName>
+      <Desc>可以短时间爆发潜力，请在极度危险关头使用，海星。</Desc>
+      <MaxStack>1</MaxStack>
+      <Duration>-1</Duration>
+      <BaseFive>9,9,9,9,9</BaseFive>
+      <OtherWorld>1</OtherWorld>
+      <Sync>1</Sync>
+      <Display>1</Display>
+      <Skills />
+      <Properties>
+        <li Name="AgeCostSpeed" AddP="0" AddV="9999999" BAddP="0" BAddV="0" Type="1" />
+        <li Name="GodPenaltyAddV" AddP="0" AddV="5000" BAddP="0" BAddV="0" Type="1" />
+        <li Name="BodyPratice_MaxZhenQi" AddP="0" AddV="599999" BAddP="0" BAddV="0" Type="1" />
+        <li Name="NpcFight_FabaoNum" AddP="0" AddV="5" BAddP="0" BAddV="0" Type="1" />
+        <li Name="NpcFight_FabaoPowerAddP" AddP="0" AddV="9999999" BAddP="0" BAddV="0" Type="1" />
+        <li Name="NpcFight_ShieldConversionRate" AddP="0" AddV="9999999" BAddP="0" BAddV="0" Type="1" />
+        <li Name="BodyPractice_AngerFireEffectAddp" AddP="0" AddV="5559999" BAddP="0" BAddV="0" Type="1" />
+        <li Name="BodyPractice_AngerFireDuration" AddP="0" AddV="9999999" BAddP="0" BAddV="0" Type="1" />
+        <li Name="BodyPratice_BodyRecover" AddP="0" AddV="9999999" BAddP="0" BAddV="0" Type="1" />
+        <li Name="BodyPratice_BodyStrong" AddP="0" AddV="9999999" BAddP="0" BAddV="0" Type="1" />
+        <li Name="MaxAge" AddP="0" AddV="-100" BAddP="0" BAddV="0" Type="1" />
+        <li Name="NpcFight_SpellPowerAddP" AddP="0" AddV="9999999" BAddP="0" BAddV="0" Type="1" />
+        <li Name="BodyPractice_SuperPartAddv_AtkPower" AddP="0" AddV="9999999" BAddP="0" BAddV="0" Type="1" />
+        <li Name="BodyPractice_SuperPartAddp_ArmorPenetration" AddP="0" AddV="5555555" BAddP="0" BAddV="0" Type="1" />
+        <li Name="BodyPractice_SuperPartAddp_CatchFabao" AddP="0" AddV="9999999" BAddP="0" BAddV="0" Type="1" />
+        <li Name="BodyPractice_SuperPartAddp_DefRate" AddP="0" AddV="9999999" BAddP="0" BAddV="0" Type="1" />
+        <li Name="BodyPractice_SuperPartAddp_AtkRate" AddP="0" AddV="9999999" BAddP="0" BAddV="0" Type="1" />
+      </Properties>
+      <CustItemType>Dan</CustItemType>
+    </Modifier>
+  </List>
+</ModifierDefs>

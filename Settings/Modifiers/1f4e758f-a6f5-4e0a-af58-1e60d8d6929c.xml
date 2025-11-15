@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModifierDefs>
+  <List>
+    <Modifier Name="1f4e758f-a6f5-4e0a-af58-1e60d8d6929c">
+      <DisplayName>护体</DisplayName>
+      <Desc>护体变多</Desc>
+      <MaxStack>0</MaxStack>
+      <Duration>-1</Duration>
+      <BaseFive>0,10,0,0,0</BaseFive>
+      <OtherWorld>1</OtherWorld>
+      <Skills>
+        <li Name="Barrier" Level="0" LevelOver="9999999" Type="2" />
+      </Skills>
+      <Properties>
+        <li Name="NpcFight_ShieldConversionRate" AddP="0" AddV="0" BAddP="0" BAddV="6666" Type="3" />
+        <li Name="NpcFight_ShieldConversionRateAddP" AddP="0" AddV="0" BAddP="0" BAddV="6666" Type="3" />
+        <li Name="NpcFight_ShieldConversionRate" AddP="0" AddV="9999" BAddP="0" BAddV="0" Type="1" />
+        <li Name="NpcFight_ShieldConversionRate" AddP="0" AddV="5999" BAddP="0" BAddV="0" Type="1" />
+        <li Name="NpcFight_ShieldConversionRateAddP" AddP="0" AddV="9999999" BAddP="0" BAddV="0" Type="1" />
+        <li Name="NpcFight_ShieldConversionRateAddP" AddP="0" AddV="0" BAddP="0" BAddV="599999" Type="3" />
+      </Properties>
+      <CustItemType>Esoterica</CustItemType>
+    </Modifier>
+  </List>
+</ModifierDefs>

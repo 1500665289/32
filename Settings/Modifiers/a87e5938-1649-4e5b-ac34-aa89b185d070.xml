@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModifierDefs>
+  <List>
+    <Modifier Name="a87e5938-1649-4e5b-ac34-aa89b185d070">
+      <DisplayName>斗战</DisplayName>
+      <Desc>无敌</Desc>
+      <MaxStack>1</MaxStack>
+      <Duration>-1</Duration>
+      <BaseFive>0,0,0,0,0</BaseFive>
+      <OtherWorld>1</OtherWorld>
+      <Sync>1</Sync>
+      <Display>1</Display>
+      <Skills>
+        <li Name="Fight" Level="0" LevelOver="9999999" Type="2" />
+        <li Name="Qi" Level="0" LevelOver="9999999" Type="2" />
+        <li Name="SocialContact" Level="0" LevelOver="999999" Type="2" />
+        <li Name="Medicine" Level="0" LevelOver="599999" Type="2" />
+        <li Name="Art" Level="5999999" LevelOver="0" Type="1" />
+        <li Name="Manual" Level="0" LevelOver="99999" Type="2" />
+        <li Name="DouFa" Level="0" LevelOver="9999999" Type="2" />
+        <li Name="DanQi" Level="0" LevelOver="9999999" Type="2" />
+        <li Name="Zhen" Level="0" LevelOver="9999999" Type="2" />
+        <li Name="Barrier" Level="0" LevelOver="9999999" Type="2" />
+        <li Name="FightSkill" Level="0" LevelOver="9999999" Type="2" />
+        <li Name="Fabao" Level="0" LevelOver="9999999" Type="2" />
+      </Skills>
+      <Properties>
+        <li Name="NpcFight_FabaoNum" AddP="0" AddV="5" BAddP="0" BAddV="0" Type="1" />
+        <li Name="NpcFight_FabaoLingRecoverK" AddP="0" AddV="9999999" BAddP="0" BAddV="0" Type="1" />
+        <li Name="NpcFight_FabaoPowerAddP" AddP="0" AddV="9999999" BAddP="0" BAddV="0" Type="1" />
+        <li Name="NpcFight_FabaoLingRecoverAddP" AddP="0" AddV="9999999" BAddP="0" BAddV="0" Type="1" />
+        <li Name="NpcFight_FabaoMaxLingAddP" AddP="0" AddV="9999999" BAddP="0" BAddV="0" Type="1" />
+        <li Name="NpcFight_FabaoRepelDistanceAddV" AddP="0" AddV="9999999" BAddP="0" BAddV="0" Type="1" />
+        <li Name="NpcFight_FabaoRepelResistanceAddV" AddP="0" AddV="9999999" BAddP="0" BAddV="0" Type="1" />
+        <li Name="NpcFight_SpellPowerAddP" AddP="0" AddV="9999999" BAddP="0" BAddV="0" Type="1" />
+        <li Name="NpcFight_FightSkillSoul" AddP="0" AddV="59" BAddP="0" BAddV="0" Type="1" />
+        <li Name="NpcFight_ZhenEnginePower" AddP="0" AddV="9999999" BAddP="0" BAddV="0" Type="1" />
+        <li Name="NpcFight_ZhenKeyPointNum" AddP="0" AddV="9999999" BAddP="0" BAddV="0" Type="1" />
+        <li Name="NpcFight_ShieldConversionRateAddP" AddP="0" AddV="9999999" BAddP="0" BAddV="0" Type="1" />
+        <li Name="NpcFight_ShieldConversionRate" AddP="0" AddV="9999999" BAddP="0" BAddV="0" Type="1" />
+        <li Name="MaxAge" AddP="0" AddV="59999" BAddP="0" BAddV="0" Type="1" />
+      </Properties>
+      <CustItemType>Dan</CustItemType>
+    </Modifier>
+  </List>
+</ModifierDefs>
